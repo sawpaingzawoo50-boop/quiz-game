@@ -111,7 +111,7 @@ const quizQuestions = [
   {
     question: "Who was the first female Prime Minister of the United Kingdom?",
     answers: [
-      {text: "Margaret Thatcher", corrgect: true },
+      {text: "Margaret Thatcher", correct: true },
       {text: "Theresa May", correct: false },
       {text: "Angela Merkel", correct: false },
       {text: "Indira Gandhi", correct: false },
